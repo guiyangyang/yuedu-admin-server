@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["uNZ5"],{uNZ5:function(n,t,e){"use strict";e.r(t);var u=e("KHd+"),i=Object(u.a)({},function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("java")])},[],!1,null,null,null);i.options.__file="python.vue";t.default=i.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["ZYv4"],{ZYv4:function(e,n,t){"use strict";t.r(n);var a=t("KHd+"),i=Object(a.a)({},function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("java")])},[],!1,null,null,null);i.options.__file="java.vue";n.default=i.exports}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["4yC1"],{"4yC1":function(t,n,o){"use strict";o.r(n);var e=o("KHd+"),l=Object(e.a)({},function(){var t=this.$createElement;return(this._self._c||t)("div",[this._v("font-tool")])},[],!1,null,null,null);l.options.__file="fontTool.vue";n.default=l.exports}}]);

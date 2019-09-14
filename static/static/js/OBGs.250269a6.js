@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([["OBGs"],{OBGs:function(n,t,o){"use strict";o.r(t);var e=o("KHd+"),s=Object(e.a)({},function(){var n=this.$createElement;return(this._self._c||n)("div",[this._v("font-book")])},[],!1,null,null,null);s.options.__file="fontBook.vue";t.default=s.exports}}]);
